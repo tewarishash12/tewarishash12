@@ -198,12 +198,12 @@ Full-stack development on a real-time trading engine and company web presence.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tewarishash12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats-ten-iota-73.vercel.app/api?username=tewarishash12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
 <img height="165" src="https://streak-stats.demolab.com?user=tewarishash12&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tewarishash12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img src="https://github-readme-stats-ten-iota-73.vercel.app/api/top-langs/?username=tewarishash12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
