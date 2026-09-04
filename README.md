@@ -213,7 +213,7 @@ Full-stack development on a real-time trading engine and company web presence.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=tewarishash12&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1)
+![Trophies](https://github-profile-trophy-eta-one.vercel.app/?username=tewarishash12&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1)
 
 </div>
 
@@ -223,7 +223,7 @@ Full-stack development on a real-time trading engine and company web presence.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tewarishash12&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9)
+![Activity Graph](https://github-readme-activity-graph-r7ek.vercel.app/graph?username=tewarishash12&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9)
 
 </div>
 
