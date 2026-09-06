@@ -186,10 +186,6 @@ Full-stack development on a real-time trading engine and company web presence.
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tewarishash12)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/GFG_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/HACKERRANK_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/CODECHEF_USERNAME)
-
 </div>
 
 ---
@@ -236,9 +232,6 @@ Full-stack development on a real-time trading engine and company web presence.
 ![Snake animation](https://raw.githubusercontent.com/tewarishash12/tewarishash12/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> To enable this: add a GitHub Action (`platane/snk`) to a repo named `tewarishash12/tewarishash12` that generates `github-contribution-grid-snake-dark.svg` on the `output` branch.
-
 ---
 
 ## 🎯 Current Focus
